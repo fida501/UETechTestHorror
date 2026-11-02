@@ -10,7 +10,7 @@ I work on this project about 6 days.
 **Genre:** First-Person Horror  
 **Engine:** Unreal Engine 5.8
 **Platform:** Windows  
-**Playtime:** Approximately less than  minutes
+**Playtime:** Approximately less than 4 minutes
 
 ## How to Run
 
