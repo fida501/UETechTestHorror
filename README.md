@@ -28,7 +28,7 @@ I work on this project about 6 days.
 
 ## Horror Direction
 
-I want to create a horror vibes where the player feel so strangely, lonely inside a unfamiliar room with low level light. Inside a liminal space where every this feels so lonely and weird.
+I wanted to create a horror atmosphere that makes the player feel isolated and uneasy while exploring an unfamiliar, liminal space room. The environment is designed to create the feeling of a liminal space, where everything feels strangely empty, unfamiliar, and unsettling.
 
 ## Technical Decisions
 1. I decided to create a backroom horror vibes because on the first thing when i create the level, i want to recreate some aspect from my home and while creating it i thought that with some lighting setup, it has a backroom vibes in it and i decided to go with it.
