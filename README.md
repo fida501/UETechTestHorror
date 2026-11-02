@@ -39,11 +39,12 @@ I wanted to create a horror atmosphere that makes the player feel isolated and u
 6. for the last objective, player need to walk through the hallway to make them feel unease in the middle of empty hallway during walking to the last objective
 7. 
 
-These decisions were made to support the intended horror atmosphere while keeping the implementation manageable within the technical test timeframe.
+These decisions were made to support the intended horror atmosphere while keeping the implementation manageable within the technical test duration.
 
 ## Known Issues
 1. I run a playtest on some people with different device. The main issues is, when played on some laptops, the first room lighting is so low somehow even with max brightness. I think this is the main problem, I decided to tell my friends to max their brightness and turn off their lamp when this problem occurs.
 2. On device that occurs the number 1 problem, some of the object is too blend with the darkness make it unnoticeable, if stuck and doesn't know what to do try to explore the corner of the room
+
 Other than that, i feel like the games is running well unless proven otherwise.
 
 ## What I Would Do With More Time
